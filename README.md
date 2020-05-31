@@ -12,4 +12,4 @@ model = tf.keras.models.Sequential([
 ```  
 
 ## Demo
-![](Demo.mp4)
+![](Demo.gif)
